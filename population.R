@@ -78,3 +78,4 @@ population %>%
   ) 
 
 ggsave("/Users/takayukitamura/Documents/R_Computing/us_pop_gdp/figures/US_population_grwoth.png", width = 6, height = 4)
+
